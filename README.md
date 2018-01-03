@@ -1,1 +1,2 @@
-# nodejs_blog_use_jade
+# Node 博客系统
+

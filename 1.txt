@@ -1,0 +1,1 @@
+db.posts.insert({ title:"First Post in Tools", content:"First Post in Tools", category:ObjectId("5a4c9e77fa5d75686b658a65"), author: ObjectId("5a4c9de4fa5d75686b658a62"), slug:'fisrt-post-in-tools', published:true, meta:{ favourates:0}, comments:[], created:new Date()})
